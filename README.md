@@ -8,7 +8,9 @@
 Thanks for checking out my project.
 
 -In this project I have made a 'Expense Tracker' with help of react.
+
 -You can write down your monthly expenses for the whole year.
+
 -It will show you a graph of you expenses comparing your current month expense with the previous and other month expenses.
 
 ## The Project
